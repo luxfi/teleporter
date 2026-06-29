@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="teleporter" width="880"></p>
+
 # teleport
 Docker project for MPC nodes for Teleport bridge network.
 
